@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Iván Montes de Oca! 👨‍💻
 
-<!--
-**ivaanmontess/ivaanmontess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Front End || ReactJs Dev**  
+Graduado en Coderhouse
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/ivan-montes-de-oca-74986a24b) | [GitHub](https://github.com/ivaanmontess)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Un poco más sobre mi...
+
+```javascript
+const Iván = {
+  code: [Javascript],
+  tools: {
+    frontend: [React, Next, React Native],
+  },
+  dataBase: [SQL],
+  styles: [Bootstrap, MaterialUI, Sass, Tailwind]
+}
